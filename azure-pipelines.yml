@@ -17,7 +17,7 @@ extends:
   parameters:
     featureFlags:
       WindowsHostVersion:
-        Network: KS1
+        Network: KS3
     
     globalSdl:
       enabled: true
